@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Splash_Animation_R3</string>
+    <string name="give_information">GIVE INFORMATION</string>
+    <string name="enter_the_id">Enter the ID</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_semester">Enter the Semester</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>
